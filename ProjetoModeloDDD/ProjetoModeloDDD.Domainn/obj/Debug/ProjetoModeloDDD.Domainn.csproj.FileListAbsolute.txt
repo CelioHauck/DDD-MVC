@@ -1,0 +1,5 @@
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Domainn\bin\Debug\ProjetoModeloDDD.Domainn.dll
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Domainn\bin\Debug\ProjetoModeloDDD.Domainn.pdb
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Domainn\obj\Debug\ProjetoModeloDDD.Domainn.csproj.CoreCompileInputs.cache
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Domainn\obj\Debug\ProjetoModeloDDD.Domainn.dll
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Domainn\obj\Debug\ProjetoModeloDDD.Domainn.pdb

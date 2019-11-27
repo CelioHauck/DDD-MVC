@@ -1,0 +1,9 @@
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\rojetoModeloDDD.Application\bin\Debug\rojetoModeloDDD.Application.dll
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\rojetoModeloDDD.Application\bin\Debug\rojetoModeloDDD.Application.pdb
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\rojetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domainn.dll
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\rojetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domainn.pdb
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\rojetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojAssemblyReference.cache
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\rojetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\rojetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CopyComplete
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\rojetoModeloDDD.Application\obj\Debug\rojetoModeloDDD.Application.dll
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\ProjetoModeloDDD\rojetoModeloDDD.Application\obj\Debug\rojetoModeloDDD.Application.pdb
